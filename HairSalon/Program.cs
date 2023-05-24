@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace VendorOrderTracker
+namespace HairSalon
 {
   class Program
   {
